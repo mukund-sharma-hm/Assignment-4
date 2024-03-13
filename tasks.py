@@ -24,7 +24,7 @@ class Employee():
     """This is Class for Employees 
 
     Args:
-        object (_type_): _description_
+        None
     """
 
     def __init__(self,
