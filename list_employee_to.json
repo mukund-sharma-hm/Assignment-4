@@ -1,0 +1,16 @@
+[
+    {
+        "EMP ID": 12345,
+        "EMP NAME": "Mukund Sharma",
+        "EMP EMAIL": "mukund@example.com",
+        "Business Unit": "Finance",
+        "Salary": 80000
+    },
+    {
+        "EMP ID": "d52f0",
+        "EMP NAME": "Kimberly Campbell",
+        "EMP EMAIL": "dominguezjohn@example.com",
+        "Business Unit": "Finance",
+        "Salary": 20677
+    }
+]
