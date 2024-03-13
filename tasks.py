@@ -21,7 +21,7 @@ fake = Faker()
 
 
 class Employee():
-    """_summary_
+    """This is Class for Employees 
 
     Args:
         object (_type_): _description_
@@ -33,7 +33,7 @@ class Employee():
                  emp_email=None,
                  business_unit=None,
                  salary=None):
-        """_summary_
+        """The constructor for Employee class
 
         Args:
             emp_id (str, optional): Employee id. Defaults to None.
@@ -107,7 +107,7 @@ class Employee():
 
     #setter method to set values using faker
     def set_default_emp_id(self):
-        """_summary_
+        """_Sets a default employee id using faker library
         """
         self.emp_id = fake.uuid4()[:5]
 
